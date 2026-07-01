@@ -17,3 +17,4 @@ All the programs that have a .exe at the end in greyhack.
 <br>➜ CodeEditor.exe(To make programs via Greyscript and compile the programs or view the source code of the program if the source code is aviable to view)</br>
 <br>➜ Manual.exe(A manual for players to view on stuff like Getting Started, Websites & Services, Terminal Programs, Visual Programs, Scripting)</br>
 <br>➜ StudentsViewer.exe(To view student records on university networks and change grades on university networks)</br>
+<br>➜ Terminal.exe(To interact with a local or remote system and to remove stuff on a local or remote system)</br>
